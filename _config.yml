@@ -1,7 +1,7 @@
-name: 树上 cn.popeye(cn0popeye)'s articles
+name: 树上 cn.popeye(cn0popeye)'s Articles
 author: cn.popeye
 markdown: redcarpet
 pygments: true
 encoding: UTF-8
-paginate: 2
+paginate: 20
 permalink: /:title/
