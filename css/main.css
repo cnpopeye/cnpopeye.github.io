@@ -22,12 +22,26 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
+h1 { 
+    margin-bottom: 1em; 
+    font-size: 1.3em;
+    font-family: "Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    color: #072;
+}
+
 p { margin: 1em 0; }
 
-a         { color: #00a; }
+/*a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
+*/
+a {cursor:pointer}
+a:link{color:#37a;text-decoration:none}
+a:visited{color:#669;text-decoration:none}
+a:hover{color:#fff;text-decoration:none;background:#37a}
+a:active{color:#fff;text-decoration:none;background:#f93}
+a img{border-width:0;vertical-align:middle}
+
 
 /*****************************************************************************/
 /*
@@ -49,6 +63,13 @@ a:visited { color: #a0a; }
   font-size: 80%;
 }
 
+/* paginator */
+.paginator{font:14px Arial,Helvetica,sans-serif;color:#AAA;margin:20px 0;line-height:150%;display:block;}
+.paginator a,.paginator span{padding:0 4px;margin:2px;text-decoration:none;}
+.paginator .current-page{color:white;background:#ff0000;}
+.paginator a:hover{color:white;background:#83BF73;}
+
+
 /*****************************************************************************/
 /*
 /* Site
@@ -63,14 +84,17 @@ a:visited { color: #a0a; }
   line-height: 1.5em;
 }
 
+
 .header a {
   font-weight: bold;
   text-decoration: none;
 }
+.header a:hover{color:#fff;text-decoration:none;background:#072}
+
 
 .title {
   display: inline-block;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 .title a {
@@ -78,7 +102,9 @@ a:visited { color: #a0a; }
 }
 
 .title a:hover {
-  color: #000;
+    color:#fff;
+    text-decoration:none;
+    background:#072
 }
 
 .header a.extra {
@@ -121,6 +147,36 @@ a:visited { color: #a0a; }
   border: 0;
 }
 
+
+/*nav*/
+nav{
+    font-family:"Electrolize",sans-serif;
+    font-size:1.1em;
+    text-transform:uppercase;
+    float:left;
+    margin-left:-12em;
+    width:9em;
+    text-align:right;
+}
+
+nav a{
+    display:block;
+    padding:.7em 1em;
+    color:#a00;
+}
+
+nav a:visited {
+    color: #a00;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color:#83BF73;
+    text-decoration:none;
+    color:#fff;
+    -webkit-transition:color .2s linear;
+
+}
 /*****************************************************************************/
 /*
 /* Posts
@@ -158,3 +214,21 @@ a:visited { color: #a0a; }
 .post pre.terminal code {
   background-color: #333;
 }
+
+/*meta*/
+.meta{font-size:12px;color:#888;}
+
+
+/*****************************************************************************/
+/*
+/* TAGs
+/*
+/*****************************************************************************/
+
+#tag_cloud{margin-bottom:1em;}
+#tag_cloud a:hover{color:#333333 !important;text-decoration:none;}
+
+.listing-item,.listing-seperator{list-style-type:none;}
+.listing-item a{padding:.2em 1em;}
+.listing-item time{color:#999999;}
+.listing-seperator{font-weight:bold;}
