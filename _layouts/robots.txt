@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /img/
+Sitemap: http://cn0popeye.com/sitemap.xml
