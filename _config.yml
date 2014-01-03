@@ -5,3 +5,4 @@ pygments: true
 encoding: UTF-8
 paginate: 20
 permalink: /:title/
+url: http://cn0popeye.com
