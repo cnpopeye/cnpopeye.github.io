@@ -20,8 +20,7 @@ tags: 车
 
 == 吉普212
 
-![carshow](http://img1.gtimg.com/auto/pics/22266/22266629.jpg)
-
+<img src="http://img1.gtimg.com/auto/pics/22266/22266629.jpg" width="400">
 小时候在部队大院长大，坐过的最多的应该就是212，
 
 但印象最深的其实是军用卡车的轮胎，每个轮胎外侧面都要刷上白色颜料，说不出来的感觉。
@@ -37,8 +36,7 @@ tags: 车
 不过以后有机会的话，也不排除收一辆做收藏。
 
 == lada niva
-
-![carshow](http://upload.wikimedia.org/wikipedia/commons/5/56/Lada_Niva_1b.jpg)
+<img src="http://upload.wikimedia.org/wikipedia/commons/5/56/Lada_Niva_1b.jpg" width="400">
 
 俄罗斯老牌越野车，第一次对它有印象是在一段视频里，两俄国人拍摄纪录小旅馆发生的各种事情，谋杀、偷情、吸毒、分赃等等。
 
