@@ -36,7 +36,8 @@ tags: 车
 不过以后有机会的话，也不排除收一辆做收藏。
 
 == lada niva
-<img src="http://upload.wikimedia.org/wikipedia/commons/5/56/Lada_Niva_1b.jpg" width="400">
+
+<img src="http://upload.wikimedia.org/wikipedia/commons/5/56/Lada_Niva_1b.jpg" width="600">
 
 俄罗斯老牌越野车，第一次对它有印象是在一段视频里，两俄国人拍摄纪录小旅馆发生的各种事情，谋杀、偷情、吸毒、分赃等等。
 
@@ -53,7 +54,7 @@ tags: 车
 
 == 高尔夫
 
-![carshow](http://img1.cheshi-img.com/20130708/08/1015734/51da366271da7_500.jpg)
+<img src="http://img1.cheshi-img.com/20130708/08/1015734/51da366271da7_500.jpg" width="600">
 
 迷上高尔夫也是近些年的事情，自从被大众蹂躏之后，就直接跳到对立面去了。
 
@@ -76,7 +77,7 @@ tags: 车
 
 == F150
 
-![carshow](http://www.roadandtrack.com/cm/roadandtrack/images/MV/2011-ford-f-150.jpg)
+![carshow](http://www.zercustoms.com/news/images/Ford/Hennessey-VelociRaptor-500-Ford-F150-Raptor-4.jpg)
 
 纯粹是满足暗藏的豪放粗野之心，有些地区上牌需要喷红白漆，逼格瞬间就low了。
 
@@ -95,14 +96,20 @@ tags: 车
 
 
 == 牧马人
-![carshow](http://img01.tooopen.com/Downs/images/2011/9/3/sy_2011090322024863807.jpg)
+
+<img src="http://img01.tooopen.com/Downs/images/2011/9/3/sy_2011090322024863807.jpg" width="600">
+
 每次看到牧马人都不能自拔，存粹的情结，同212.
 其实说是要多越野也不见得，但就是好看，用来拍照？
 
 == mini
-![carshow](http://motoburg.com/images/mini-cooper-cabriolet-01.jpg)
+
+<img src="http://motoburg.com/images/mini-cooper-cabriolet-01.jpg" width="600">
+
 mini做工还是不错的，老婆做代步车不错。
 
 == 大切诺基
+
 ![carshow](http://car0.autoimg.cn/upload/2013/5/15/u_20130515090842715264.jpg)
+
 即可以解毒jeep，有能满足日常大部分用车需求，比牧马人舒适，还是不错的选择。
