@@ -53,15 +53,6 @@ tags: 车
 比212还过之。
 
 
-== 英菲尼迪 JX/QX/EX系列
-
-![carshow](http://static.cargurus.com/images/site/2008/12/19/21/59/2009_infiniti_fx35-pic-24088.png)
-
-纯粹就是看着对眼，整体造型感觉就像大头皮鞋，重心比较靠后感很强。
-
-当然，一段时间后就无感了。
-
-
 == 高尔夫
 
 ![carshow](http://img1.cheshi-img.com/20130708/08/1015734/51da366271da7_500.jpg)
@@ -105,15 +96,15 @@ tags: 车
 酷路泽的大油箱和舒适度占了不少优势，但这种对比对牧马人有失公平。牧马人设计初衷是为了越野而越野，针对的是极端复杂路况，舒适、空间其实是次要的。
 
 
-== 捷豹XF
-![carshow](http://www.theonecar.com/wp-content/uploads/2013/11/jaguar-xf-1849.jpg)
-存粹是为了好看，并没有更多深入了解，而已。
-
-== 野马GT500
-
-
 == 牧马人
+![carshow](http://img01.tooopen.com/Downs/images/2011/9/3/sy_2011090322024863807.jpg)
+每次看到牧马人都不能自拔，存粹的情结，同212.
+其实说是要多越野也不见得，但就是好看，用来拍照？
 
 == mini
+![carshow](http://motoburg.com/images/mini-cooper-cabriolet-01.jpg)
+mini做工还是不错的，老婆做代步车不错。
 
 == 大切诺基
+![carshow](http://car0.autoimg.cn/upload/2013/5/15/u_20130515090842715264.jpg)
+即可以解毒jeep，有能满足日常大部分用车需求，比牧马人舒适，还是不错的选择。
