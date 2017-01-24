@@ -72,6 +72,7 @@ Google Drive要翻墙，就麻烦了许多，但是很多重要文件还是存�
 在我们家就这点好，什么问题都可以发表意见和讨论，很快我就友好的接受了领导的指示，并且稍做了些扩展，更稳妥一些，那就是Amazon Drive。
 
 好吧，现在来看看我们有些什么：
+
 - 250G 2.5吋 SATA硬盘 x1
 - 2T 3.5吋 SATA硬盘 x2
 - 1T 3.5吋 SATA硬盘 x1
@@ -107,19 +108,20 @@ Google Drive要翻墙，就麻烦了许多，但是很多重要文件还是存�
 9. 该干嘛干嘛去吧，过几个小时再来看看结果就好
 
 两块磁盘之间同步目录文件，用rsync非常合适而且速度合快，不管**A**里面是修改、增加、删除，都会同步过去，比拷贝/粘贴好用多了。
+
 另外，[rclone]是开源的云端同步项目，支持：
 
- • Google Drive
- • Amazon S3
- • Openstack Swift / Rackspace cloud files / Memset Memstore
- • Dropbox
- • Google Cloud Storage
- • Amazon Drive
- • Microsoft One Drive
- • Hubic
- • Backblaze B2
- • Yandex Disk
- • The local filesystem
+ - Google Drive
+ - Amazon S3
+ - Openstack Swift / Rackspace cloud files / Memset Memstore
+ - Dropbox
+ - Google Cloud Storage
+ - Amazon Drive
+ - Microsoft One Drive
+ - Hubic
+ - Backblaze B2
+ - Yandex Disk
+ - The local filesystem
 
 还有，树莓派的系统Raspbian，很久以来按照官网操作安装完后无法ssh登入。
 
